@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "2番のプライド",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T15:03:25.403455Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2番のプライド",
+      "artist": "LGYankees presents DJ No.2",
+      "has_synced": false,
+      "path": "select/pl_01_2番のプライド_LGYankees_presents_DJ_No.2.txt"
+    }
+  ]
+}
